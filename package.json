@@ -45,7 +45,8 @@
     "react-paginate": "^5.0.0",
     "react-select": "^1.0.0-beta14",
     "reselect": "^2.5.1",
-    "ron-react-autocomplete": "^4.0.5"
+    "ron-react-autocomplete": "^4.0.5",
+    "lerna": "2.0.0-beta.34"
   },
   "devDependencies": {
     "avcoveralls": "^1.0.0",
